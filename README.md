@@ -2,9 +2,20 @@
 
 This project is an Excel-based sales analysis dashboard designed to provide key insights into business performance. By analyzing data such as monthly sales, profit trends, customer counts, and product category distribution, this dashboard offers valuable information to support data-driven decision-making.
 
-•⁠  ⁠*Project objective:* 
+•⁠  ⁠*Sheets pdf:* 
 
- *1.* Create a [Sales_by_Category](https://github.com/MayankSRana/Excel_Sales_Analysis_Dashboard/blob/main/sales_by_Category.pdf)
+ *1.*  [Dashboard](https://github.com/MayankSRana/Excel_Sales_Analysis_Dashboard/blob/main/dashboard.pdf)
+ 
+ *2.*  [Sales_by_Category](https://github.com/MayankSRana/Excel_Sales_Analysis_Dashboard/blob/main/sales_by_Category.pdf)
+
+ *3.*  [Monthly_Sales](https://github.com/MayankSRana/Excel_Sales_Analysis_Dashboard/blob/main/Monthly_sales.pdf)
+
+ *4.*  [Top 5 Customers](https://github.com/MayankSRana/Excel_Sales_Analysis_Dashboard/blob/main/Top%205%20Customers.pdf)
+
+ *5.*  [Profit gain overtime](https://github.com/MayankSRana/Excel_Sales_Analysis_Dashboard/blob/main/profit%20gain%20overtime.pdf)
+
+ *6.*  [Sales_by_states](https://github.com/MayankSRana/Excel_Sales_Analysis_Dashboard/blob/main/sales_by_states.pdf)
+ 
 
 
 
